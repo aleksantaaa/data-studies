@@ -10,7 +10,7 @@ I am building skills step by step in Excel, SQL, Python, and BI tools.
 - [ ] BI Tools (Power BI, Tableau)  
 
 ## 📂 Projects
-- **Day 1:** Intro to Pivot Tables → /Intro-to-Pivot-Tables-Part-1-.xlsx*  
+- **Day 1:** Intro to Pivot Tables → [Excel file](./Intro-to-Pivot-Tables-Part-1-.xlsx)
 
 ## ✨ Goal
 To become a **Data Analyst / BI Analyst** and gain experience through practice projects.
